@@ -2,6 +2,11 @@
     import IllustrationHero from "$lib/assets/illustration-hero.svg";
 
 </script>
+<!--
+@component
+Hero Component
+--> 
+
 
 <section id="hero">
     <!-- Container for Image & Content -->
@@ -36,3 +41,14 @@
     </div>
 
 </section>
+
+<style>
+    @screen lg {
+        .bg-hero {
+            width: 2000px;
+            height: 300px;
+            left: 30%;
+            @apply absolute rounded-l-full top-52 bg-softBlue;
+        }
+    }
+</style>

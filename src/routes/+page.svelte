@@ -1,5 +1,8 @@
 <script>
-	import { Hero } from '$lib/components'
+	import { 
+		Hero,
+		FeaturesTab
+		} from '$lib/components'
 </script>
 
 <svelte:head>
@@ -7,3 +10,4 @@
 </svelte:head>
 
 <Hero />
+<FeaturesTab />

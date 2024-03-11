@@ -1,5 +1,9 @@
+<script>
+	import { Hero } from '$lib/components'
+</script>
+
 <svelte:head>
 	<title>Bookmark App</title>
 </svelte:head>
 
-<h1>Hola</h1>	
+<Hero />

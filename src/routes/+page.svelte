@@ -3,7 +3,9 @@
 		DownloadBoxes,
 		FAQ,
 		FeaturesTab,
+		Footer,
 		Hero,
+		Newsletter,
 		} from '$lib/components'
 </script>
 
@@ -15,3 +17,4 @@
 <FeaturesTab />
 <DownloadBoxes />
 <FAQ />
+<Newsletter />

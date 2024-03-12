@@ -1,6 +1,7 @@
 <script>
 	import { 
 		DownloadBoxes,
+		FAQ,
 		FeaturesTab,
 		Hero,
 		} from '$lib/components'
@@ -13,3 +14,4 @@
 <Hero />
 <FeaturesTab />
 <DownloadBoxes />
+<FAQ />

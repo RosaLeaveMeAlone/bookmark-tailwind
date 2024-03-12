@@ -21,10 +21,10 @@ Hero Component
 
             <!-- Buttoms Container -->
             <div class="flex items-center justify-center w-full space-x-4 lg:justify-start">
-                <a href="#login" class="p-4 text-sm font-semibold text-white bg-softBlue rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-softBlue">
+                <a href="#" class="p-4 text-sm font-semibold text-white bg-softBlue rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-softBlue">
                     Get It On Chrome
                 </a>
-                <a href="#login" class="p-4 text-sm font-semibold text-black bg-gray-300 rounded shadow-md border-2 border-gray-300 md:text-base hover:bg-white hover:text-gray-600">
+                <a href="#" class="p-4 text-sm font-semibold text-black bg-gray-300 rounded shadow-md border-2 border-gray-300 md:text-base hover:bg-white hover:text-gray-600">
                     Get It On Firefox
                 </a>
             </div>

@@ -19,9 +19,9 @@
         menu.classList.toggle('flex');
     }
 
+// TODO: Improve menu behavior
 </script>
 
-//TODO: Improve menu behavior
 
 <nav class="container relative mx-auto p-6">
     <!-- Flex Container For Nav Items -->
@@ -36,7 +36,7 @@
             <a href="#download" class="tracking-widest hover:text-softRed">Download</a>
             <a href="#faq" class="tracking-widest hover:text-softRed">FAQ</a>
 
-            <a href="#login" class="px-8 py-2 text-white bg-softRed border-2 border-softRed rounded-lg shadow-md hover:text-softRed hover:bg-white">Login</a>
+            <a href="#" class="px-8 py-2 text-white bg-softRed border-2 border-softRed rounded-lg shadow-md hover:text-softRed hover:bg-white">Login</a>
 
         </div>
         <!-- Hamburger Button -->

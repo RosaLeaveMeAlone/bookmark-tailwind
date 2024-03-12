@@ -36,12 +36,12 @@
     }   
 
 
+// TODO: Improve animations and transitions
 </script>
 <!--
 @component
 FeaturesTab Component
 --> 
-//TODO: Improve animations and transitions
 
 <!-- Features Heading -->
 
@@ -100,7 +100,7 @@ FeaturesTab Component
                         Organize your bookmarks however you like. Our simple drag-and-drop interface gives you complete control over how you manage your favorite sites.
                     </p>
                     <div class="mx-auto md:mx-0">
-                        <a href="#tab1" class="px-6 py-3 mt-4 font-semibold text-white border-2 border-white rounded-lg md:inline-flex bg-softBlue hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2">
+                        <a href="#" class="px-6 py-3 mt-4 font-semibold text-white border-2 border-white rounded-lg md:inline-flex bg-softBlue hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2">
                             More Info
                         </a>
                     </div>
@@ -121,7 +121,7 @@ FeaturesTab Component
                         Our powerful search feature will help you find saved sites in no time at all. No need to trawl through all of your bookmarks.
                     </p>
                     <div class="mx-auto md:mx-0">
-                        <a href="#tab1" class="px-6 py-3 mt-4 font-semibold text-white border-2 border-white rounded-lg md:inline-flex bg-softBlue hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2">
+                        <a href="#" class="px-6 py-3 mt-4 font-semibold text-white border-2 border-white rounded-lg md:inline-flex bg-softBlue hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2">
                             More Info
                         </a>
                     </div>
@@ -142,7 +142,7 @@ FeaturesTab Component
                         Easily share your bookmarks and collections with others. Create a shareable link that you can send at the click of a button.
                     </p>
                     <div class="mx-auto md:mx-0">
-                        <a href="#tab1" class="px-6 py-3 mt-4 font-semibold text-white border-2 border-white rounded-lg md:inline-flex bg-softBlue hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2">
+                        <a href="#" class="px-6 py-3 mt-4 font-semibold text-white border-2 border-white rounded-lg md:inline-flex bg-softBlue hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2">
                             More Info
                         </a>
                     </div>

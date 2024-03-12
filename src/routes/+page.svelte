@@ -3,7 +3,6 @@
 		DownloadBoxes,
 		FAQ,
 		FeaturesTab,
-		Footer,
 		Hero,
 		Newsletter,
 		} from '$lib/components'

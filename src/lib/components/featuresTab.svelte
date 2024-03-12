@@ -41,7 +41,7 @@
 @component
 FeaturesTab Component
 --> 
-
+//TODO: Improve animations and transitions
 
 <!-- Features Heading -->
 

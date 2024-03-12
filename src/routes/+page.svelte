@@ -1,7 +1,8 @@
 <script>
 	import { 
+		DownloadBoxes,
+		FeaturesTab,
 		Hero,
-		FeaturesTab
 		} from '$lib/components'
 </script>
 
@@ -11,3 +12,4 @@
 
 <Hero />
 <FeaturesTab />
+<DownloadBoxes />

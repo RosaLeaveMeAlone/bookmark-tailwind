@@ -84,7 +84,7 @@ FeaturesTab Component
         </div>
 
         <!-- Tab Panels -->
-        <section id="panels" class="container mx-auto">
+        <div id="panels" class="container mx-auto">
             <!-- Panel 1 -->
             <div class="flex flex-col py-5 md:flex-row md:space-x-7 panel panel-1 animate__animated animate__fadeIn animate__faster">
                 <!-- Panel Image -->
@@ -148,7 +148,7 @@ FeaturesTab Component
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
 
     </div>
 </section>

@@ -6,3 +6,4 @@ export { default as DownloadBoxes } from './downloadBoxes.svelte';
 export { default as FAQ } from './faq.svelte';
 export { default as Footer } from './footer.svelte';
 export { default as Newsletter } from './newsletter.svelte';
+export { default as Contact } from './contact.svelte';

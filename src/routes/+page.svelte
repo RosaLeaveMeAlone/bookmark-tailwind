@@ -1,5 +1,6 @@
 <script>
 	import { 
+		Contact,
 		DownloadBoxes,
 		FAQ,
 		FeaturesTab,
@@ -16,4 +17,5 @@
 <FeaturesTab />
 <DownloadBoxes />
 <FAQ />
-<Newsletter />
+<!-- <Newsletter /> -->
+<Contact />

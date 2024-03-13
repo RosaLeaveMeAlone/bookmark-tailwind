@@ -36,3 +36,14 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+# Generate Docker image
+
+```docker build -t bookmark-tailwind:tag .```
+
+# Docker Step
+
+
+And then run the image:
+
+``` docker run -d -p 80:80 bookmark-tailwind:tag ```

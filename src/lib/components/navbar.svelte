@@ -36,7 +36,7 @@
             <a href="#download" class="tracking-widest hover:text-softRed">Download</a>
             <a href="#faq" class="tracking-widest hover:text-softRed">FAQ</a>
 
-            <a href="#" class="px-8 py-2 text-white bg-softRed border-2 border-softRed rounded-lg shadow-md hover:text-softRed hover:bg-white">Login</a>
+            <a href="#contact" class="px-8 py-2 text-white bg-softRed border-2 border-softRed rounded-lg shadow-md hover:text-softRed hover:bg-white">Contact Us</a>
 
         </div>
         <!-- Hamburger Button -->

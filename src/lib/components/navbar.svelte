@@ -60,7 +60,7 @@
                 <a href="#faq" class="block hover:text-softRed">FAQ</a>
             </div>
             <div class="w-full py-3 text-center">
-                <a href="#" class="block hover:text-softRed">Login</a>
+                <a href="#contact" class="block hover:text-softRed">Contact Us</a>
             </div>
         </div>
 

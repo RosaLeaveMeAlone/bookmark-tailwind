@@ -2,7 +2,7 @@
 
 </script>
 
-<section id="newsletter" class="bg-softBlue">
+<section id="contact" class="bg-softBlue">
     <div class="max-w-lg mx-6 md:mx-auto py-24">
         <h2 class="px-3 mb-6 text-3xl font-semibold text-center text-white md:text-4xl">
             Contact Us

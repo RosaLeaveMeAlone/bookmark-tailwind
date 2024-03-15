@@ -6,6 +6,7 @@
 		FAQ,
 		FeaturesTab,
 		Hero,
+		MapLocation,
 		Newsletter,
 		} from '$lib/components'
 </script>
@@ -17,6 +18,7 @@
 <FeaturesTab />
 <DownloadBoxes />
 <FAQ />
-<FAB />
+<MapLocation />
 <!-- <Newsletter /> -->
 <Contact />
+<FAB />

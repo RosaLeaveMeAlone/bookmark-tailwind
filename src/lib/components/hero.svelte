@@ -1,5 +1,5 @@
 <script>
-    import IllustrationHero from "$lib/assets/illustration-hero.svg";
+    // import IllustrationHero from "$lib/assets/illustration-hero.svg";
 
 </script>
 <!--
@@ -35,7 +35,7 @@ Hero Component
             <div class="bg-hero">
                 
             </div>
-            <img src={IllustrationHero} alt="" class="relative z-10 lg:top-24 xl:top-0 overflow-x-visible">
+            <img loading="lazy" src="https://juzcategui.s3.amazonaws.com/public/illustration-hero.svg" alt="illustration-hero" class="relative z-10 lg:top-24 xl:top-0 overflow-x-visible">
 
         </div>
     </div>

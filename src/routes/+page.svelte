@@ -19,7 +19,10 @@
 <FeaturesTab />
 <DownloadBoxes />
 <FAQ />
-<MapLocation />
+{#await import('$lib/components/mapLocation.svelte') then c}
+	<svelte:component this={c.default}/>
+{/await}
+<!-- <MapLocation /> -->
 <!-- <Newsletter /> -->
 <Contact />
 <FAB />

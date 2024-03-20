@@ -24,5 +24,8 @@
 {/await}
 <!-- <MapLocation /> -->
 <!-- <Newsletter /> -->
-<Contact />
+{#await import('$lib/components/contact.svelte') then c}
+	<svelte:component this={c.default}/>
+{/await}
+<!-- <Contact /> -->
 <FAB />

@@ -1,5 +1,4 @@
 <script>
-// @ts-nocheck
 
 	import { 
 		Contact,
@@ -20,9 +19,6 @@
 <FeaturesTab />
 <DownloadBoxes />
 <FAQ />
-{#await import("$lib/components/mapLocation.svelte") then Map}
-	<Map />
-{/await}
 <MapLocation />
 <!-- <Newsletter /> -->
 <Contact />

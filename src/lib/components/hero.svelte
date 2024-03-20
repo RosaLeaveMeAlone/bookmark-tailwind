@@ -35,7 +35,7 @@ Hero Component
             <div class="bg-hero">
                 
             </div>
-            <img loading="lazy" width="800" height="679" src="https://juzcategui.s3.amazonaws.com/public/illustration-hero.svg" alt="illustration-hero" class="relative z-10 lg:top-24 xl:top-0 overflow-x-visible">
+            <img width="800" height="679" src="https://juzcategui.s3.amazonaws.com/public/illustration-hero.svg" alt="illustration-hero" class="relative z-10 lg:top-24 xl:top-0 overflow-x-visible">
 
         </div>
     </div>

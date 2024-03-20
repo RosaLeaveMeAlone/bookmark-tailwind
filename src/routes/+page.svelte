@@ -24,7 +24,9 @@
 {/await}
 <!-- <MapLocation /> -->
 <!-- <Newsletter /> -->
-{#await import('$lib/components/contact.svelte') then c}
+{#await import('$lib/components/contact.svelte')}
+	<section id="contact" class="bg-softBlue"></section>
+{:then c}
 	<svelte:component this={c.default}/>
 {/await}
 <!-- <Contact /> -->
